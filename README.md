@@ -57,7 +57,7 @@ Soy estudiante de Ingenieria de Sistemas y Computacion de la [Universidad Nacion
 
 * ### [Home](https://github.com/oeroaq/IronHack-oeroaq)
 
-Ganador del Best Solution en el primer [IronHacks](http://www.ironhacks.com/) entre la [Universidad de Purdue](https://www.purdue.edu/) y la [Universidad Nacional de Colombia](http://unal.edu.co/)
+Ganador del Best Solution en el primer [IronHacks](http://www.ironhacks.com/) entre la [Universidad de Purdue](https://www.purdue.edu/) y la [Universidad Nacional de Colombia](http://unal.edu.co/) en donde se buscaba escoger el sitio mas barato, seguro y acogedor para estudiantes recien llegados a la universidad en Chicago.
 
  * ### [gskEspañol](https://github.com/oeroaq/gskEspanol)
 
