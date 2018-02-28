@@ -1,3 +1,12 @@
-# ***Omar Roa***  ![Avatar](avatar.png "Omar")
+
+<center><img src="avatar.jpg"></center>
+
+<center> 
+
+# ***Omar Roa***  
 ___
+
+</center>
+
+
 
