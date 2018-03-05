@@ -67,3 +67,9 @@ Proyecto final de la Asignatura Lenguajes de Programacion de la [Universidad Nac
 * ### [Oxygen](https://github.com/Dev02Unal/Oxygen)
 
 Aplicacion para poder hacer eventos dentro del capus universitario y poder comunicarlo a las demas personas, esta app fue desarrollada en conjunto con el equipo [DevO2](https://github.com/Dev02Unal) para la asignatura Ingenieria de Software 2 de la [Universidad Nacional de Colombia](http://unal.edu.co/)
+
+* ### [BlurParalelismo](https://github.com/fevargasmo/Efecto-blur-con-diferentes-metodos-de-paralelismo)
+Aplicar efecto blur a imagenes con diferentes metodos de paralelismo; Hilos, Pymp, CUDA. Para la asignatura Computacion Paralela y Distribuida de la [Universidad Nacional de Colombia](http://unal.edu.co/), el repositorio inicial esta en GitLab [BlurParalelismo](https://gitlab.com/oeroaq/paralela.git)
+
+
+
