@@ -75,5 +75,12 @@ Aplicar efecto blur a imagenes con diferentes metodos de paralelismo; Hilos, Pym
 
 Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométricas, ambiguas, etc.), al menos dos con movimiento y dos con interactividad.
 
+* ### [Taller raster](https://github.com/oeroaq/Raster_ws)
+
+Empleando coordenadas baricéntricas se implemento haciendo uso de la librería [frames](https://github.com/VisualComputing/framesjs/releases):
+
+1. Rasterizar un triángulo;
+2. Implementar un algoritmo de anti-aliasing para sus aristas; y,
+3. Hacer shading sobre su superficie.
 
 
