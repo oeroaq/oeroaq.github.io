@@ -71,6 +71,8 @@ Aplicacion para poder hacer eventos dentro del capus universitario y poder comun
 * ### [BlurParalelismo](https://github.com/fevargasmo/Efecto-blur-con-diferentes-metodos-de-paralelismo)
 Aplicar efecto blur a imagenes con diferentes metodos de paralelismo; Hilos, Pymp, CUDA. Para la asignatura Computacion Paralela y Distribuida de la [Universidad Nacional de Colombia](http://unal.edu.co/), el repositorio inicial esta en GitLab [BlurParalelismo](https://gitlab.com/oeroaq/paralela.git)
 
+## Computacion Visual
+
 * ### [Taller Optical Illusion](https://github.com/oeroaq/Illusions_ws)
 
 Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométricas, ambiguas, etc.), al menos dos con movimiento y dos con interactividad.
