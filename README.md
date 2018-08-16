@@ -36,6 +36,7 @@ Soy estudiante de Ingenieria de Sistemas y Computacion de la [Universidad Nacion
     * C#
     * Python
     * Ruby
+    * Java
     * JavaScript
     * HTML
     * SQL
@@ -48,11 +49,12 @@ Soy estudiante de Ingenieria de Sistemas y Computacion de la [Universidad Nacion
 
     * N1SQL
     * Markdown
-    * Java
     * Visual Basic
     * Power Shell
     * Go
     * Matlab - Scilab - Octave (Matematicos)
+
+## Desarrollo de aplicaciones para dispositivos moviles
 
 ## Proyectos
 
@@ -70,8 +72,6 @@ Aplicacion para poder hacer eventos dentro del capus universitario y poder comun
 
 * ### [BlurParalelismo](https://github.com/fevargasmo/Efecto-blur-con-diferentes-metodos-de-paralelismo)
 Aplicar efecto blur a imagenes con diferentes metodos de paralelismo; Hilos, Pymp, CUDA. Para la asignatura Computacion Paralela y Distribuida de la [Universidad Nacional de Colombia](http://unal.edu.co/), el repositorio inicial esta en GitLab [BlurParalelismo](https://gitlab.com/oeroaq/paralela.git)
-
-## Computacion Visual
 
 * ### [Taller Optical Illusion](https://github.com/oeroaq/Illusions_ws)
 
