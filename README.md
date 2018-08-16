@@ -55,6 +55,9 @@ Soy estudiante de Ingenieria de Sistemas y Computacion de la [Universidad Nacion
     * Matlab - Scilab - Octave (Matematicos)
 
 ## Desarrollo de aplicaciones para dispositivos moviles
+* ### [Reto 0](https://github.com/oeroaq/dadm-reto-0)
+
+Hello world Android Studio.
 
 ## Proyectos
 
