@@ -14,7 +14,7 @@ ___
 ## Perfil
 
 
-Soy estudiante de Ingenieria de Sistemas y Computacion de la [Universidad Nacional de Colombia](http://unal.edu.co/), actualmente curso noveno semestre de esta ingenieria. He tenido la fortuna de poder ejercer los conocimientos adquiridos durante mi instancia en la universidad en la industria del software con [Grupo Cubo](http://grupo-cubo.com/gcubo/index.php) durante los ultimos 2 años y tambien en la Oficina de TIC's de la [Facultad de Ingenieria](https://www.ingenieria.bogota.unal.edu.co/) durante los ultmos 6 meses.
+Soy estudiante de Ingenieria de Sistemas y Computacion de la [Universidad Nacional de Colombia](http://unal.edu.co/), actualmente curso ultimo semestre de esta ingenieria. He tenido la fortuna de poder ejercer los conocimientos adquiridos durante mi instancia en la universidad en la industria del software con [Grupo Cubo](http://grupo-cubo.com/gcubo/index.php) durante los ultimos 2 años y tambien en la Oficina de TIC's de la [Facultad de Ingenieria](https://www.ingenieria.bogota.unal.edu.co/) durante los ultmos 6 meses.
 
 
 ## Intereses Profesionales
