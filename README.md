@@ -71,7 +71,7 @@ Prototipo y Modelo Canvas.
 
  Juguemos Triqui  [McCOWN] 
 
-* ### [Reto 3](https://github.com/oeroaq/TicTacToe)
+* ### [Reto 4](https://github.com/oeroaq/TicTacToe)
 
 Mejorando nuestro Triqui (Menus y Diálogos) [McCOWN]
 
