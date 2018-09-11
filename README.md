@@ -59,6 +59,22 @@ Soy estudiante de Ingenieria de Sistemas y Computacion de la [Universidad Nacion
 
 Hello world Android Studio.
 
+* ### [Reto 1](https://drive.google.com/drive/u/1/folders/1HQF93J37o5QkfdOWxu2wJFSIpX8JWNwv?ogsrc=32)
+
+Propuesta proyecto.
+
+* ### [Reto 2](https://drive.google.com/drive/u/1/folders/1-m7n2NYco_EkcTgdo-UpMN2_N4lIcxL3?ogsrc=32)
+
+Prototipo y Modelo Canvas.
+
+* ### [Reto 3](https://github.com/oeroaq/TicTacToe)
+
+ Juguemos Triqui  [McCOWN] 
+
+* ### [Reto 3](https://github.com/oeroaq/TicTacToe)
+
+Mejorando nuestro Triqui (Menus y Diálogos) [McCOWN]
+
 ## Proyectos
 
 * ### [Home](https://github.com/oeroaq/IronHack-oeroaq)
