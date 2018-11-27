@@ -67,13 +67,25 @@ Propuesta proyecto.
 
 Prototipo y Modelo Canvas.
 
-* ### [Reto 3](https://github.com/oeroaq/TicTacToe)
+* ### [Reto 3](https://github.com/oeroaq/TicTacToe/tree/b23c4f0fd4fb296773cebfb297e56ad6f10f78a7)
 
  Juguemos Triqui  [McCOWN] 
 
-* ### [Reto 4](https://github.com/oeroaq/TicTacToe)
+* ### [Reto 4](https://github.com/oeroaq/TicTacToe/tree/b23c4f0fd4fb296773cebfb297e56ad6f10f78a7)
 
 Mejorando nuestro Triqui (Menus y Diálogos) [McCOWN]
+
+* ### [Reto 5](https://github.com/oeroaq/TicTacToe/tree/382748c9b5e1b54b2582d71417bc1bbc02c8d4dc)
+
+Incorporando gráficos y audio [McCOWN]
+
+* ### [Reto 6](https://github.com/oeroaq/TicTacToe/tree/28aba0ef6ba6d9d553f4e5e4b8ab4060c3c627f7)
+
+Cambiando de orientación y guardando el estado [McCOWN]
+
+* ### [Reto 7](https://github.com/oeroaq/TicTacToe/tree/72baa3e1d826cd59b547fe578196e0751d1331e1)
+
+Preferencias [McCOWN]
 
 ## Proyectos
 
