@@ -87,6 +87,10 @@ Cambiando de orientación y guardando el estado [McCOWN]
 
 Preferencias [McCOWN]
 
+* ### [Reto 7a](https://github.com/oeroaq/TicTacToe/tree/ba6558dac47cf5373005c86addaffa22c0722603)
+
+Jugando triqui online
+
 ## Proyectos
 
 * ### [Home](https://github.com/oeroaq/IronHack-oeroaq)
