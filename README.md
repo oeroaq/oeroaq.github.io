@@ -59,8 +59,6 @@ Soy estudiante de Ingenieria de Sistemas y Computacion de la [Universidad Nacion
 
 Hello world Android Studio.
 
-* ### [Reto 1](https://drive.google.com/drive/u/1/folders/1HQF93J37o5QkfdOWxu2wJFSIpX8JWNwv?ogsrc=32)
-
 ## Proyectos
 
 * ### [Home](https://github.com/oeroaq/IronHack-oeroaq)
