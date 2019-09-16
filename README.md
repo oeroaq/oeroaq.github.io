@@ -6,6 +6,19 @@ ___
 
 # ***Omar Roa***  
 
+
+
+## Desarrollo de aplicaciones para dispositivos moviles
+* ### [Reto 0](https://github.com/oeroaq/dadm-reto-0)
+
+Hello world Android Studio.
+
+
+* ### [Reto 3](https://github.com/oeroaq/Triqui/tree/DAMD-Reto-03)
+
+Interfaz gráfica  [McCOWN] [17 Sep].
+
+
 [GitHub](https://github.com/oeroaq)
 
 ___
