@@ -18,6 +18,17 @@ Hello world Android Studio.
 
 Interfaz gráfica  [McCOWN] [17 Sep].
 
+* ### [Reto 4](https://github.com/oeroaq/Triqui/tree/DAMD-Reto-04)
+
+Menus y Diálogos [McCOWN] [24 Sep]
+
+* ### [Reto 5](https://github.com/oeroaq/Triqui/tree/Reto5%266)
+
+Incorporando gráficos y audio [McCOWN] [1 Oct]
+
+* ### [Reto 6](https://github.com/oeroaq/Triqui/tree/Reto5%266)
+
+Preferencias [McCOWN] [15 Oct]
 
 [GitHub](https://github.com/oeroaq)
 
